@@ -1,12 +1,14 @@
 # React Training - TicTacToe
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- Dynamic Board size
 
 ## Checklist
 
 - [x] Board
 - [x] Tile
-- [ ] Game
+- [x] Game
 
 ### `npm install`
 
